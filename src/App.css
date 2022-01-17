@@ -1,3 +1,5 @@
 h2 {
-  color: red;
+  color: white;
+  background: linear-gradient(360deg, black, white);
 }
+

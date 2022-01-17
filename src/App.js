@@ -1,11 +1,8 @@
-import './App.css';
-import { BrowserRouter, Route, Link, Switch } from 'react-router';
+import List from './components/List';
 
 function App() {
   return (
-    <div>
-      <h2>Solar</h2>
-    </div>
+    <List />
   );
 }
 
